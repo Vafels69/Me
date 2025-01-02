@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Denis]!
 
 I'm a **second-year Systems Data Engineering student** passionate about technology and solving problems with code.
 
